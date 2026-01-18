@@ -1,4 +1,4 @@
-# TIS Assignment 1 - UTM Digital Open Day
+# Assignment 1 - UTM Digital Open Day
 ## 🔗 Video link
 https://youtu.be/UVFgPZGvfVw
 
